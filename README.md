@@ -1,4 +1,4 @@
-#A simple Web Scraping
+# A simple Web Scraping Project
 
 This project is a web scraping application that collects information about products on Mercado Libre, such as price and rating, and stores this data in an Excel file. This can be useful for tracking prices and ratings of products you are interested in on Mercado Libre.
 
